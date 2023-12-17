@@ -1,0 +1,18 @@
+header{
+  height: 40px;
+  background-color:#333;
+  color:#fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul{
+  list-style: none;
+}
+header ul {
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+header ul li{margin-right: 30px;display: flex; margin-top: 15px;;}
+header ul li a{text-decoration: none; color:#fff;}
